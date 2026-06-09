@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://evautosupply.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://evautosupply.com/best-electric-vehicle-accessories.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://evautosupply.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://evautosupply.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://evautosupply.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://evautosupply.com/evautosupply-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://evautosupply.com/how-to-choose-evautosupply-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-what-wed-buy-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-quality-vs-marketing.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://evautosupply.com/how-to-pick-evautosupply-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-guide-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-explained-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-compared-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://evautosupply.com/best-evautosupply-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-what-buyers-need-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-market-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://evautosupply.com/evautosupply-tested-ranked-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://evautosupply.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
